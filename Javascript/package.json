@@ -1,0 +1,11 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "Important: always implement one exercise at a time (if possible just parts of it), and test each solution (or each change). The general idea is, code a bit and try, code a bit and try...",
+  "main": "main1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
